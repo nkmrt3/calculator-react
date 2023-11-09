@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calggculator-react/static/css/main.8519ed8d.css",
+    "main.js": "/calggculator-react/static/js/main.6dd595eb.js",
+    "static/media/moon.png": "/calggculator-react/static/media/moon.ed34e3ccb9cc98e025d1.png",
+    "static/media/sun.png": "/calggculator-react/static/media/sun.c083fc151ebd00ab40a2.png",
+    "index.html": "/calggculator-react/index.html",
+    "main.8519ed8d.css.map": "/calggculator-react/static/css/main.8519ed8d.css.map",
+    "main.6dd595eb.js.map": "/calggculator-react/static/js/main.6dd595eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8519ed8d.css",
+    "static/js/main.6dd595eb.js"
+  ]
+}
